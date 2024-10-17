@@ -1,4 +1,4 @@
-## Hi. I'm Hemmy 👋🏾:
+## Hi, I'm Hemmy 👋🏾
 ![Blue and White Hemmy Banner](https://github.com/user-attachments/assets/79c332f9-61cf-4e82-ac13-ecf1d5a6715f)
 
 I'm a full-stack developer specializing in web and mobile applications. Driven by a passion for creating technology that addresses real-world challenges, I strive to build user-friendly solutions that make a positive impact. My technical expertise includes ReactJS, Next.js, React Native, and Flutter. While I primarily focus on front-end development, my understanding of the entire development lifecycle allows me to collaborate effectively with backend teams and deliver comprehensive solutions.
